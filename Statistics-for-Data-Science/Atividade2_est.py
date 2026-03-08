@@ -86,7 +86,7 @@ plt.ylabel('Frequência')
 plt.axvline(media, color='red', linestyle='dashed', linewidth=1, label=f'Média: {media:.2f}')
 plt.legend()
 plt.grid(axis='y', alpha=0.75)
-plt.savefig('meu_histograma.png')
+plt.savefig('hist_ativ2.png')
 
 
 ## Estatística Inferencial (Conceito)
