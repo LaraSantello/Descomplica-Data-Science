@@ -1,9 +1,8 @@
 import matplotlib
 matplotlib.use('Agg')  # Isso diz ao Python para não tentar abrir uma janela visual
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # Para criar gráficos (histograma)
 import collections # Para contar frequências de dados qualitativos
 import numpy as np # Para cálculos numéricos (média, desvio padrão)
-import matplotlib.pyplot as plt # Para criar gráficos (histograma)
 
 
 print("--- Tipos de Dados Estatísticos ---")
